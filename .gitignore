@@ -1,0 +1,15 @@
+# Ignore all images and videos inside images/ folder except .gitkeep
+images/*
+!images/.gitkeep
+
+# Ignore rendered output videos and temporary files
+BA - *.mp4
+bad_apple_recap_final.mp4
+temp_silent_render.mp4
+
+# Python cache & environments
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
