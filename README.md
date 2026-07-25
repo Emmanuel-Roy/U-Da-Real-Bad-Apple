@@ -1,6 +1,8 @@
-# U-Da-Real-Bad-Apple 🍎
+# U da real bad apple 🍎
 
 An interactive, portable Python tool that transforms your personal photos and videos into a Bad Apple silhouette recap video with original audio preservation.
+
+> ✨ **Note:** This script is 100% vibe coded.
 
 ---
 
